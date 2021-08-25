@@ -12,3 +12,4 @@ else:
     print(a / b)
 print('Hi')
 print()
+print('new line')
